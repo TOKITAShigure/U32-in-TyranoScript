@@ -1,7 +1,7 @@
 # ティラノスクリプトを用いた万能レジスタマシン
 
 ## 説明
-ノベル制作ツール、ティラノスクリプト(https://tyrano.jp/)上で、万能レジスタマシンU32(https://www.sciencedirect.com/science/article/pii/S0304397596000801)を再現しました。
+ノベル制作ツール、ティラノスクリプト( https://tyrano.jp/ ) 上で、万能レジスタマシンU32( https://www.sciencedirect.com/science/article/pii/S0304397596000801 ) を再現しました。
 ティラノスクリプトはチューリング完全。
 
 ##
